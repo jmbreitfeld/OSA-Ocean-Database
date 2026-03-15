@@ -2424,7 +2424,7 @@
       "e": 7116194,
       "ne": 7116187,
       "s": 7116198,
-      "se": 7116199
+      "se": 7116199,
       "map": "east_blue.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">East Blue</font></span>",
       "cx": 190.0,
@@ -2437,7 +2437,7 @@
       "s": 7116199,
       "se": 7116200,
       "sw": 7116198,
-      "w": 7116193
+      "w": 7116193,
       "map": "east_blue.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">East Blue</font></span>",
       "cx": 250.0,
