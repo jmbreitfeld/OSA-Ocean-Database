@@ -2384,7 +2384,7 @@
       "ne": 7116185,
       "nw": 7116183,
       "s": 7116197,
-      "se": 7116194,
+      "se": 7116641,
       "sw": 7116196,
       "w": 7116189,
       "map": "east_blue.png",
@@ -2393,12 +2393,12 @@
       "cy": 620.0
     },
     "7116191": {
-      "e": 7116194,
+      "e": 7116192,
       "n": 7116185,
-      "ne": 7116193,
+      "ne": 7116186,
       "nw": 7116184,
       "s": 7116641,
-      "se": 7116195,
+      "se": 7116642,
       "sw": 7116197,
       "w": 7116190,
       "map": "east_blue.png",
@@ -4316,7 +4316,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 230.0,
-      "cy": 80.0
+      "cy": 85.0
     },
     "7116352": {
       "e": 7116353,
@@ -4330,7 +4330,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 290.0,
-      "cy": 80.0
+      "cy": 85.0
     },
     "7116353": {
       "e": 7116354,
@@ -4344,7 +4344,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 350.0,
-      "cy": 80.0
+      "cy": 85.0
     },
     "7116354": {
       "e": 7116355,
@@ -4357,7 +4357,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 410.0,
-      "cy": 80.0
+      "cy": 85.0
     },
     "7116355": {
       "e": 7116356,
@@ -4368,7 +4368,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 470.0,
-      "cy": 80.0
+      "cy": 85.0
     },
     "7116356": {
       "sw": 7116361,
@@ -4376,7 +4376,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 530.0,
-      "cy": 80.0
+      "cy": 85.0
     },
     "7116357": {
       "e": 7116358,
@@ -4390,7 +4390,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 230.0,
-      "cy": 140.0
+      "cy": 145.0
     },
     "7116358": {
       "e": 7116359,
@@ -4404,7 +4404,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 290.0,
-      "cy": 140.0
+      "cy": 145.0
     },
     "7116359": {
       "e": 7116360,
@@ -4417,7 +4417,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 350.0,
-      "cy": 140.0
+      "cy": 145.0
     },
     "7116360": {
       "e": 7116361,
@@ -4430,7 +4430,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 410.0,
-      "cy": 140.0
+      "cy": 145.0
     },
     "7116361": {
       "n": 7116355,
@@ -4441,7 +4441,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 470.0,
-      "cy": 140.0
+      "cy": 145.0
     },
     "7116362": {
       "n": 7116361,
@@ -4449,7 +4449,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 470.0,
-      "cy": 200.0
+      "cy": 205.0
     },
     "7116363": {
       "e": 7116364,
@@ -4462,7 +4462,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 230.0,
-      "cy": 200.0
+      "cy": 205.0
     },
     "7116364": {
       "e": 7116365,
@@ -4476,7 +4476,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 290.0,
-      "cy": 200.0
+      "cy": 205.0
     },
     "7116365": {
       "n": 7116359,
@@ -4488,7 +4488,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 350.0,
-      "cy": 200.0
+      "cy": 205.0
     },
     "7116366": {
       "e": 7116367,
@@ -4500,7 +4500,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 230.0,
-      "cy": 260.0
+      "cy": 265.0
     },
     "7116367": {
       "e": 7116368,
@@ -4514,7 +4514,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 290.0,
-      "cy": 260.0
+      "cy": 265.0
     },
     "7116368": {
       "n": 7116365,
@@ -4525,7 +4525,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 350.0,
-      "cy": 260.0
+      "cy": 265.0
     },
     "7116369": {
       "e": 7116370,
@@ -4537,7 +4537,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 230.0,
-      "cy": 320.0
+      "cy": 325.0
     },
     "7116370": {
       "e": 7116371,
@@ -4550,7 +4550,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 290.0,
-      "cy": 320.0
+      "cy": 325.0
     },
     "7116371": {
       "n": 7116368,
@@ -4560,7 +4560,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 350.0,
-      "cy": 320.0
+      "cy": 325.0
     },
     "7116372": {
       "e": 7116373,
@@ -4573,7 +4573,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 230.0,
-      "cy": 380.0
+      "cy": 385.0
     },
     "7116373": {
       "n": 7116370,
@@ -4585,7 +4585,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 290.0,
-      "cy": 380.0
+      "cy": 385.0
     },
     "7116374": {
       "e": 7116375,
@@ -4599,7 +4599,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 230.0,
-      "cy": 440.0
+      "cy": 445.0
     },
     "7116375": {
       "n": 7116373,
@@ -4610,7 +4610,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 290.0,
-      "cy": 440.0
+      "cy": 445.0
     },
     "7116376": {
       "e": 7116377,
@@ -4624,7 +4624,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 230.0,
-      "cy": 500.0
+      "cy": 505.0
     },
     "7116377": {
       "n": 7116375,
@@ -4635,7 +4635,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 290.0,
-      "cy": 500.0
+      "cy": 505.0
     },
     "7116378": {
       "e": 7116379,
@@ -4649,7 +4649,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 230.0,
-      "cy": 560.0
+      "cy": 565.0
     },
     "7116379": {
       "n": 7116377,
@@ -4661,7 +4661,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 290.0,
-      "cy": 560.0
+      "cy": 565.0
     },
     "7116380": {
       "e": 7116381,
@@ -4675,7 +4675,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 230.0,
-      "cy": 620.0
+      "cy": 625.0
     },
     "7116381": {
       "e": 7116382,
@@ -4688,7 +4688,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 290.0,
-      "cy": 620.0
+      "cy": 625.0
     },
     "7116382": {
       "nw": 7116379,
@@ -4698,7 +4698,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 350.0,
-      "cy": 620.0
+      "cy": 625.0
     },
     "7116383": {
       "e": 7116384,
@@ -4712,7 +4712,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 230.0,
-      "cy": 680.0
+      "cy": 685.0
     },
     "7116384": {
       "e": 7116385,
@@ -4726,7 +4726,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 290.0,
-      "cy": 680.0
+      "cy": 685.0
     },
     "7116385": {
       "n": 7116382,
@@ -4738,7 +4738,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 350.0,
-      "cy": 680.0
+      "cy": 685.0
     },
     "7116386": {
       "e": 7116387,
@@ -4752,7 +4752,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 230.0,
-      "cy": 740.0
+      "cy": 745.0
     },
     "7116387": {
       "e": 7116388,
@@ -4766,7 +4766,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 290.0,
-      "cy": 740.0
+      "cy": 745.0
     },
     "7116388": {
       "e": 7116389,
@@ -4779,7 +4779,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 350.0,
-      "cy": 740.0
+      "cy": 745.0
     },
     "7116389": {
       "nw": 7116385,
@@ -4789,7 +4789,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 410.0,
-      "cy": 740.0
+      "cy": 745.0
     },
     "7116390": {
       "e": 7116391,
@@ -4803,7 +4803,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 230.0,
-      "cy": 800.0
+      "cy": 805.0
     },
     "7116391": {
       "e": 7116392,
@@ -4817,7 +4817,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 290.0,
-      "cy": 800.0
+      "cy": 805.0
     },
     "7116392": {
       "e": 7116393,
@@ -4831,7 +4831,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 350.0,
-      "cy": 800.0
+      "cy": 805.0
     },
     "7116393": {
       "n": 7116389,
@@ -4842,7 +4842,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 410.0,
-      "cy": 800.0
+      "cy": 805.0
     },
     "7116394": {
       "e": 7116395,
@@ -4856,7 +4856,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 230.0,
-      "cy": 860.0
+      "cy": 865.0
     },
     "7116395": {
       "e": 7116396,
@@ -4870,7 +4870,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 290.0,
-      "cy": 860.0
+      "cy": 865.0
     },
     "7116396": {
       "e": 7116397,
@@ -4883,7 +4883,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 350.0,
-      "cy": 860.0
+      "cy": 865.0
     },
     "7116397": {
       "n": 7116393,
@@ -4893,7 +4893,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 410.0,
-      "cy": 860.0
+      "cy": 865.0
     },
     "7116398": {
       "e": 7116399,
@@ -4907,7 +4907,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 230.0,
-      "cy": 920.0
+      "cy": 925.0
     },
     "7116399": {
       "e": 7116400,
@@ -4920,7 +4920,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 290.0,
-      "cy": 920.0
+      "cy": 925.0
     },
     "7116400": {
       "n": 7116396,
@@ -4931,7 +4931,7 @@
       "map": "kestral_sea.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\"><font style=\"font-size: 30px;\">Kestral Sea</font></span>",
       "cx": 350.0,
-      "cy": 920.0
+      "cy": 925.0
     },
     "7116401": {
       "e": 7116402,
@@ -4942,7 +4942,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 200.0,
-      "cy": 70.0
+      "cy": 75.0
     },
     "7116402": {
       "e": 7116403,
@@ -4956,7 +4956,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 260.0,
-      "cy": 70.0
+      "cy": 75.0
     },
     "7116403": {
       "e": 7116404,
@@ -4970,7 +4970,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 320.0,
-      "cy": 70.0
+      "cy": 75.0
     },
     "7116404": {
       "e": 7116405,
@@ -4983,7 +4983,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 380.0,
-      "cy": 70.0
+      "cy": 75.0
     },
     "7116405": {
       "n": 7116550,
@@ -4993,7 +4993,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 440.0,
-      "cy": 70.0
+      "cy": 75.0
     },
     "7116406": {
       "e": 7116407,
@@ -5004,7 +5004,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 200.0,
-      "cy": 130.0
+      "cy": 135.0
     },
     "7116407": {
       "e": 7116408,
@@ -5018,7 +5018,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 260.0,
-      "cy": 130.0
+      "cy": 135.0
     },
     "7116408": {
       "e": 7116409,
@@ -5031,7 +5031,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 320.0,
-      "cy": 130.0
+      "cy": 135.0
     },
     "7116409": {
       "n": 7116404,
@@ -5042,7 +5042,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 380.0,
-      "cy": 130.0
+      "cy": 135.0
     },
     "7116410": {
       "e": 7116411,
@@ -5053,7 +5053,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 200.0,
-      "cy": 190.0
+      "cy": 195.0
     },
     "7116411": {
       "e": 7116412,
@@ -5067,7 +5067,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 260.0,
-      "cy": 190.0
+      "cy": 195.0
     },
     "7116412": {
       "n": 7116408,
@@ -5079,7 +5079,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 320.0,
-      "cy": 190.0
+      "cy": 195.0
     },
     "7116413": {
       "e": 7116414,
@@ -5090,7 +5090,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 200.0,
-      "cy": 250.0
+      "cy": 255.0
     },
     "7116414": {
       "e": 7116415,
@@ -5104,7 +5104,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 260.0,
-      "cy": 250.0
+      "cy": 255.0
     },
     "7116415": {
       "n": 7116412,
@@ -5115,14 +5115,14 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 320.0,
-      "cy": 250.0
+      "cy": 255.0
     },
     "7116416": {
       "s": 7116420,
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 440.0,
-      "cy": 250.0
+      "cy": 255.0
     },
     "7116417": {
       "e": 7116418,
@@ -5133,7 +5133,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 200.0,
-      "cy": 310.0
+      "cy": 315.0
     },
     "7116418": {
       "e": 7116419,
@@ -5147,7 +5147,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 260.0,
-      "cy": 310.0
+      "cy": 315.0
     },
     "7116419": {
       "n": 7116415,
@@ -5158,7 +5158,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 320.0,
-      "cy": 310.0
+      "cy": 315.0
     },
     "7116420": {
       "n": 7116416,
@@ -5166,7 +5166,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 440.0,
-      "cy": 310.0
+      "cy": 315.0
     },
     "7116421": {
       "e": 7116422,
@@ -5177,7 +5177,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 200.0,
-      "cy": 370.0
+      "cy": 375.0
     },
     "7116422": {
       "e": 7116423,
@@ -5191,7 +5191,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 260.0,
-      "cy": 370.0
+      "cy": 375.0
     },
     "7116423": {
       "n": 7116419,
@@ -5203,7 +5203,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 320.0,
-      "cy": 370.0
+      "cy": 375.0
     },
     "7116424": {
       "n": 7116420,
@@ -5212,7 +5212,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 440.0,
-      "cy": 370.0
+      "cy": 375.0
     },
     "7116425": {
       "e": 7116426,
@@ -5223,7 +5223,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 200.0,
-      "cy": 430.0
+      "cy": 435.0
     },
     "7116426": {
       "e": 7116427,
@@ -5236,7 +5236,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 260.0,
-      "cy": 430.0
+      "cy": 435.0
     },
     "7116427": {
       "e": 7116428,
@@ -5248,7 +5248,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 320.0,
-      "cy": 430.0
+      "cy": 435.0
     },
     "7116428": {
       "e": 7116429,
@@ -5259,7 +5259,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 380.0,
-      "cy": 430.0
+      "cy": 435.0
     },
     "7116429": {
       "n": 7116424,
@@ -5268,7 +5268,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 440.0,
-      "cy": 430.0
+      "cy": 435.0
     },
     "7116430": {
       "e": 7116431,
@@ -5279,7 +5279,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 200.0,
-      "cy": 490.0
+      "cy": 495.0
     },
     "7116431": {
       "n": 7116426,
@@ -5291,7 +5291,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 260.0,
-      "cy": 490.0
+      "cy": 495.0
     },
     "7116432": {
       "n": 7116428,
@@ -5301,7 +5301,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 380.0,
-      "cy": 490.0
+      "cy": 495.0
     },
     "7116433": {
       "e": 7116434,
@@ -5312,7 +5312,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 200.0,
-      "cy": 550.0
+      "cy": 555.0
     },
     "7116434": {
       "n": 7116431,
@@ -5323,7 +5323,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 260.0,
-      "cy": 550.0
+      "cy": 555.0
     },
     "7116435": {
       "nw": 7116432,
@@ -5331,7 +5331,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 440.0,
-      "cy": 550.0
+      "cy": 555.0
     },
     "7116436": {
       "e": 7116437,
@@ -5342,7 +5342,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 200.0,
-      "cy": 610.0
+      "cy": 615.0
     },
     "7116437": {
       "n": 7116434,
@@ -5354,7 +5354,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 260.0,
-      "cy": 610.0
+      "cy": 615.0
     },
     "7116438": {
       "n": 7116435,
@@ -5364,7 +5364,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 440.0,
-      "cy": 610.0
+      "cy": 615.0
     },
     "7116439": {
       "e": 7116440,
@@ -5375,7 +5375,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 200.0,
-      "cy": 670.0
+      "cy": 675.0
     },
     "7116440": {
       "e": 7116441,
@@ -5388,7 +5388,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 260.0,
-      "cy": 670.0
+      "cy": 675.0
     },
     "7116441": {
       "e": 7116442,
@@ -5400,7 +5400,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 320.0,
-      "cy": 670.0
+      "cy": 675.0
     },
     "7116442": {
       "e": 7116443,
@@ -5412,7 +5412,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 380.0,
-      "cy": 670.0
+      "cy": 675.0
     },
     "7116443": {
       "e": 7116444,
@@ -5424,7 +5424,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 440.0,
-      "cy": 670.0
+      "cy": 675.0
     },
     "7116444": {
       "nw": 7116438,
@@ -5434,7 +5434,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 500.0,
-      "cy": 670.0
+      "cy": 675.0
     },
     "7116445": {
       "e": 7116446,
@@ -5446,7 +5446,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 200.0,
-      "cy": 730.0
+      "cy": 735.0
     },
     "7116446": {
       "e": 7116447,
@@ -5460,7 +5460,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 260.0,
-      "cy": 730.0
+      "cy": 735.0
     },
     "7116447": {
       "e": 7116448,
@@ -5474,7 +5474,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 320.0,
-      "cy": 730.0
+      "cy": 735.0
     },
     "7116448": {
       "e": 7116449,
@@ -5488,7 +5488,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 380.0,
-      "cy": 730.0
+      "cy": 735.0
     },
     "7116449": {
       "e": 7116450,
@@ -5502,7 +5502,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 440.0,
-      "cy": 730.0
+      "cy": 735.0
     },
     "7116450": {
       "n": 7116444,
@@ -5514,7 +5514,7 @@
       "map": "cephalod_straits.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Cephalod Straits</span>",
       "cx": 500.0,
-      "cy": 730.0
+      "cy": 735.0
     },
     "7116451": {
       "e": 7116452,
@@ -6119,7 +6119,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 200.0,
-      "cy": 80.0
+      "cy": 85.0
     },
     "7116502": {
       "n": 7116501,
@@ -6129,7 +6129,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 200.0,
-      "cy": 140.0
+      "cy": 145.0
     },
     "7116503": {
       "e": 7116504,
@@ -6139,7 +6139,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 200.0,
-      "cy": 200.0
+      "cy": 205.0
     },
     "7116504": {
       "nw": 7116502,
@@ -6150,7 +6150,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 260.0,
-      "cy": 200.0
+      "cy": 205.0
     },
     "7116505": {
       "e": 7116506,
@@ -6161,7 +6161,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 200.0,
-      "cy": 260.0
+      "cy": 265.0
     },
     "7116506": {
       "e": 7116507,
@@ -6174,7 +6174,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 260.0,
-      "cy": 260.0
+      "cy": 265.0
     },
     "7116507": {
       "nw": 7116504,
@@ -6185,7 +6185,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 320.0,
-      "cy": 260.0
+      "cy": 265.0
     },
     "7116508": {
       "e": 7116509,
@@ -6196,7 +6196,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 200.0,
-      "cy": 320.0
+      "cy": 325.0
     },
     "7116509": {
       "e": 7116510,
@@ -6210,7 +6210,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 260.0,
-      "cy": 320.0
+      "cy": 325.0
     },
     "7116510": {
       "e": 7116511,
@@ -6222,7 +6222,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 320.0,
-      "cy": 320.0
+      "cy": 325.0
     },
     "7116511": {
       "e": 7116512,
@@ -6233,7 +6233,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 380.0,
-      "cy": 320.0
+      "cy": 325.0
     },
     "7116512": {
       "e": 7116481,
@@ -6242,7 +6242,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 440.0,
-      "cy": 320.0
+      "cy": 325.0
     },
     "7116513": {
       "e": 7116514,
@@ -6253,7 +6253,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 200.0,
-      "cy": 380.0
+      "cy": 385.0
     },
     "7116514": {
       "e": 7116515,
@@ -6267,7 +6267,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 260.0,
-      "cy": 380.0
+      "cy": 385.0
     },
     "7116515": {
       "n": 7116510,
@@ -6279,7 +6279,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 320.0,
-      "cy": 380.0
+      "cy": 385.0
     },
     "7116516": {
       "n": 7116512,
@@ -6289,7 +6289,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 440.0,
-      "cy": 380.0
+      "cy": 385.0
     },
     "7116517": {
       "e": 7116518,
@@ -6300,7 +6300,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 200.0,
-      "cy": 440.0
+      "cy": 445.0
     },
     "7116518": {
       "e": 7116519,
@@ -6314,7 +6314,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 260.0,
-      "cy": 440.0
+      "cy": 445.0
     },
     "7116519": {
       "n": 7116515,
@@ -6326,7 +6326,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 320.0,
-      "cy": 440.0
+      "cy": 445.0
     },
     "7116520": {
       "n": 7116516,
@@ -6336,7 +6336,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 440.0,
-      "cy": 440.0
+      "cy": 445.0
     },
     "7116521": {
       "e": 7116522,
@@ -6347,7 +6347,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 200.0,
-      "cy": 500.0
+      "cy": 505.0
     },
     "7116522": {
       "e": 7116523,
@@ -6361,7 +6361,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 260.0,
-      "cy": 500.0
+      "cy": 505.0
     },
     "7116523": {
       "e": 7116524,
@@ -6373,7 +6373,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 320.0,
-      "cy": 500.0
+      "cy": 505.0
     },
     "7116524": {
       "e": 7116525,
@@ -6385,7 +6385,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 380.0,
-      "cy": 500.0
+      "cy": 505.0
     },
     "7116525": {
       "e": 7116526,
@@ -6395,7 +6395,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 440.0,
-      "cy": 500.0
+      "cy": 505.0
     },
     "7116526": {
       "nw": 7116520,
@@ -6404,7 +6404,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 500.0,
-      "cy": 500.0
+      "cy": 505.0
     },
     "7116527": {
       "e": 7116528,
@@ -6415,7 +6415,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 200.0,
-      "cy": 560.0
+      "cy": 565.0
     },
     "7116528": {
       "e": 7116529,
@@ -6429,7 +6429,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 260.0,
-      "cy": 560.0
+      "cy": 565.0
     },
     "7116529": {
       "n": 7116523,
@@ -6442,7 +6442,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 320.0,
-      "cy": 560.0
+      "cy": 565.0
     },
     "7116530": {
       "n": 7116525,
@@ -6453,7 +6453,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 440.0,
-      "cy": 560.0
+      "cy": 565.0
     },
     "7116531": {
       "e": 7116532,
@@ -6464,7 +6464,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 200.0,
-      "cy": 620.0
+      "cy": 625.0
     },
     "7116532": {
       "e": 7116533,
@@ -6478,7 +6478,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 260.0,
-      "cy": 620.0
+      "cy": 625.0
     },
     "7116533": {
       "e": 7116534,
@@ -6491,7 +6491,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 320.0,
-      "cy": 620.0
+      "cy": 625.0
     },
     "7116534": {
       "e": 7116535,
@@ -6504,7 +6504,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 380.0,
-      "cy": 620.0
+      "cy": 625.0
     },
     "7116535": {
       "n": 7116530,
@@ -6514,7 +6514,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 440.0,
-      "cy": 620.0
+      "cy": 625.0
     },
     "7116536": {
       "e": 7116537,
@@ -6525,7 +6525,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 200.0,
-      "cy": 680.0
+      "cy": 685.0
     },
     "7116537": {
       "e": 7116538,
@@ -6553,7 +6553,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 320.0,
-      "cy": 680.0
+      "cy": 685.0
     },
     "7116539": {
       "e": 7116540,
@@ -6567,7 +6567,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 380.0,
-      "cy": 680.0
+      "cy": 685.0
     },
     "7116540": {
       "n": 7116535,
@@ -6578,7 +6578,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 440.0,
-      "cy": 680.0
+      "cy": 685.0
     },
     "7116541": {
       "e": 7116542,
@@ -6589,7 +6589,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 200.0,
-      "cy": 740.0
+      "cy": 745.0
     },
     "7116542": {
       "e": 7116543,
@@ -6602,7 +6602,7 @@
       "w": 7116541,
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
-      "cx": 255.0,
+      "cx": 260.0,
       "cy": 745.0
     },
     "7116543": {
@@ -6617,7 +6617,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 320.0,
-      "cy": 740.0
+      "cy": 745.0
     },
     "7116544": {
       "e": 7116545,
@@ -6631,7 +6631,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 380.0,
-      "cy": 740.0
+      "cy": 745.0
     },
     "7116545": {
       "n": 7116540,
@@ -6642,7 +6642,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 440.0,
-      "cy": 740.0
+      "cy": 745.0
     },
     "7116546": {
       "e": 7116547,
@@ -6681,7 +6681,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 320.0,
-      "cy": 800.0
+      "cy": 805.0
     },
     "7116549": {
       "e": 7116550,
@@ -6695,7 +6695,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 380.0,
-      "cy": 800.0
+      "cy": 805.0
     },
     "7116550": {
       "n": 7116545,
@@ -6706,7 +6706,7 @@
       "map": "cobalt_depths.png",
       "map_name": "cobalt_depths",
       "cx": 440.0,
-      "cy": 800.0
+      "cy": 805.0
     },
     "7116551": {
       "e": 7116552,
@@ -7232,7 +7232,8 @@
       "map": "deep_viridian_sea.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Deep Viridian Sea</font>",
       "cx": 530.0,
-      "cy": 610.0
+      "cy": 610.0,
+      "se": 7116598
     },
     "7116593": {
       "e": 7116594,
@@ -7243,7 +7244,9 @@
       "map": "deep_viridian_sea.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Deep Viridian Sea</font>",
       "cx": 590.0,
-      "cy": 610.0
+      "cy": 610.0,
+      "s": 7116598,
+      "se": 7116599
     },
     "7116594": {
       "nw": 7116588,
@@ -7251,7 +7254,10 @@
       "map": "deep_viridian_sea.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Deep Viridian Sea</font>",
       "cx": 650.0,
-      "cy": 610.0
+      "cy": 610.0,
+      "sw": 7116598,
+      "s": 7116599,
+      "se": 7116600
     },
     "7116595": {
       "e": 7116596,
@@ -7285,6 +7291,7 @@
       "se": 7116653,
       "sw": 7116651,
       "w": 7116596,
+      "e": 7116598,
       "map": "deep_viridian_sea.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Deep Viridian Sea</font>",
       "cx": 530.0,
@@ -7298,6 +7305,7 @@
       "se": 7116654,
       "sw": 7116652,
       "w": 7116597,
+      "e": 7116599,
       "map": "deep_viridian_sea.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Deep Viridian Sea</font>",
       "cx": 590.0,
@@ -7310,6 +7318,7 @@
       "se": 7116655,
       "sw": 7116653,
       "w": 7116598,
+      "e": 7116600,
       "map": "deep_viridian_sea.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Deep Viridian Sea</font>",
       "cx": 650.0,
@@ -8605,7 +8614,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 910.0,
-      "cy": 80.0
+      "cy": 85.0
     },
     "7116702": {
       "n": 7116699,
@@ -8617,7 +8626,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 970.0,
-      "cy": 80.0
+      "cy": 85.0
     },
     "7116703": {
       "e": 7116704,
@@ -8628,7 +8637,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 910.0,
-      "cy": 140.0
+      "cy": 145.0
     },
     "7116704": {
       "e": 7116705,
@@ -8641,7 +8650,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 970.0,
-      "cy": 140.0
+      "cy": 145.0
     },
     "7116705": {
       "nw": 7116702,
@@ -8651,7 +8660,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 1030.0,
-      "cy": 140.0
+      "cy": 145.0
     },
     "7116706": {
       "e": 7116707,
@@ -8663,7 +8672,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 910.0,
-      "cy": 200.0
+      "cy": 205.0
     },
     "7116707": {
       "e": 7116708,
@@ -8676,7 +8685,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 970.0,
-      "cy": 200.0
+      "cy": 205.0
     },
     "7116708": {
       "n": 7116705,
@@ -8686,7 +8695,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 1030.0,
-      "cy": 200.0
+      "cy": 205.0
     },
     "7116709": {
       "e": 7116710,
@@ -8697,7 +8706,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 850.0,
-      "cy": 260.0
+      "cy": 265.0
     },
     "7116710": {
       "e": 7116711,
@@ -8709,7 +8718,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 910.0,
-      "cy": 260.0
+      "cy": 265.0
     },
     "7116711": {
       "n": 7116707,
@@ -8720,7 +8729,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 970.0,
-      "cy": 260.0
+      "cy": 265.0
     },
     "7116712": {
       "e": 7116713,
@@ -8731,7 +8740,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 790.0,
-      "cy": 320.0
+      "cy": 325.0
     },
     "7116713": {
       "e": 7116714,
@@ -8743,7 +8752,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 850.0,
-      "cy": 320.0
+      "cy": 325.0
     },
     "7116714": {
       "n": 7116710,
@@ -8754,7 +8763,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 910.0,
-      "cy": 320.0
+      "cy": 325.0
     },
     "7116715": {
       "e": 7116716,
@@ -8765,7 +8774,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 730.0,
-      "cy": 380.0
+      "cy": 385.0
     },
     "7116716": {
       "e": 7116717,
@@ -8777,7 +8786,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 790.0,
-      "cy": 380.0
+      "cy": 385.0
     },
     "7116717": {
       "n": 7116713,
@@ -8788,7 +8797,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 850.0,
-      "cy": 380.0
+      "cy": 385.0
     },
     "7116718": {
       "e": 7116719,
@@ -8799,7 +8808,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 670.0,
-      "cy": 440.0
+      "cy": 445.0
     },
     "7116719": {
       "e": 7116720,
@@ -8811,7 +8820,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 730.0,
-      "cy": 440.0
+      "cy": 445.0
     },
     "7116720": {
       "n": 7116716,
@@ -8822,7 +8831,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 790.0,
-      "cy": 440.0
+      "cy": 445.0
     },
     "7116721": {
       "e": 7116722,
@@ -8833,7 +8842,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 610.0,
-      "cy": 500.0
+      "cy": 505.0
     },
     "7116722": {
       "e": 7116723,
@@ -8845,7 +8854,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 670.0,
-      "cy": 500.0
+      "cy": 505.0
     },
     "7116723": {
       "n": 7116719,
@@ -8856,7 +8865,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 730.0,
-      "cy": 500.0
+      "cy": 505.0
     },
     "7116724": {
       "e": 7116725,
@@ -8867,7 +8876,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 550.0,
-      "cy": 560.0
+      "cy": 565.0
     },
     "7116725": {
       "e": 7116726,
@@ -8879,7 +8888,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 610.0,
-      "cy": 560.0
+      "cy": 565.0
     },
     "7116726": {
       "n": 7116722,
@@ -8890,7 +8899,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 670.0,
-      "cy": 560.0
+      "cy": 565.0
     },
     "7116727": {
       "e": 7116728,
@@ -8901,7 +8910,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 490.0,
-      "cy": 620.0
+      "cy": 625.0
     },
     "7116728": {
       "e": 7116729,
@@ -8913,7 +8922,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 550.0,
-      "cy": 620.0
+      "cy": 625.0
     },
     "7116729": {
       "n": 7116725,
@@ -8924,7 +8933,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 610.0,
-      "cy": 620.0
+      "cy": 625.0
     },
     "7116730": {
       "e": 7116731,
@@ -8934,7 +8943,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 430.0,
-      "cy": 680.0
+      "cy": 685.0
     },
     "7116731": {
       "e": 7116732,
@@ -8945,7 +8954,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 490.0,
-      "cy": 680.0
+      "cy": 685.0
     },
     "7116732": {
       "n": 7116728,
@@ -8955,7 +8964,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 550.0,
-      "cy": 680.0
+      "cy": 685.0
     },
     "7116733": {
       "e": 7116734,
@@ -8964,7 +8973,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 310.0,
-      "cy": 740.0
+      "cy": 745.0
     },
     "7116734": {
       "e": 7116735,
@@ -8974,7 +8983,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 370.0,
-      "cy": 740.0
+      "cy": 745.0
     },
     "7116735": {
       "n": 7116730,
@@ -8983,7 +8992,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 430.0,
-      "cy": 740.0
+      "cy": 745.0
     },
     "7116736": {
       "e": 7116737,
@@ -8994,7 +9003,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 190.0,
-      "cy": 800.0
+      "cy": 805.0
     },
     "7116737": {
       "e": 7116738,
@@ -9007,7 +9016,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 250.0,
-      "cy": 800.0
+      "cy": 805.0
     },
     "7116738": {
       "n": 7116733,
@@ -9018,7 +9027,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 310.0,
-      "cy": 800.0
+      "cy": 805.0
     },
     "7116739": {
       "e": 7116740,
@@ -9028,7 +9037,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 190.0,
-      "cy": 860.0
+      "cy": 865.0
     },
     "7116740": {
       "e": 7116741,
@@ -9041,7 +9050,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 250.0,
-      "cy": 860.0
+      "cy": 865.0
     },
     "7116741": {
       "n": 7116738,
@@ -9053,7 +9062,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 310.0,
-      "cy": 860.0
+      "cy": 865.0
     },
     "7116742": {
       "e": 7116743,
@@ -9064,7 +9073,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 250.0,
-      "cy": 920.0
+      "cy": 925.0
     },
     "7116743": {
       "e": 7116744,
@@ -9076,7 +9085,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 310.0,
-      "cy": 920.0
+      "cy": 925.0
     },
     "7116744": {
       "nw": 7116741,
@@ -9087,7 +9096,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 370.0,
-      "cy": 920.0
+      "cy": 925.0
     },
     "7116745": {
       "e": 7116746,
@@ -9100,7 +9109,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 310.0,
-      "cy": 980.0
+      "cy": 985.0
     },
     "7116746": {
       "e": 7116747,
@@ -9112,7 +9121,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 370.0,
-      "cy": 980.0
+      "cy": 985.0
     },
     "7116747": {
       "nw": 7116744,
@@ -9121,7 +9130,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 430.0,
-      "cy": 980.0
+      "cy": 985.0
     },
     "7116748": {
       "e": 7116749,
@@ -9132,7 +9141,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 250.0,
-      "cy": 1040.0
+      "cy": 1045.0
     },
     "7116749": {
       "e": 7116750,
@@ -9144,7 +9153,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 310.0,
-      "cy": 1040.0
+      "cy": 1045.0
     },
     "7116750": {
       "n": 7116746,
@@ -9155,7 +9164,7 @@
       "map": "the_mirkewater.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">The Mirkewater</font>",
       "cx": 370.0,
-      "cy": 1040.0
+      "cy": 1045.0
     },
     "7116751": {
       "e": 7116752,
@@ -9680,6 +9689,8 @@
       "e": 7116797,
       "n": 7116795,
       "nw": 7116794,
+      "s": 7143001,
+      "se": 7143002,
       "map": "southron_sea.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Southron Sea</font>",
       "cx": 225.0,
@@ -9689,6 +9700,9 @@
       "e": 7116798,
       "nw": 7116795,
       "w": 7116796,
+      "sw": 7143001,
+      "s": 7143002,
+      "se": 7143003,
       "map": "southron_sea.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Southron Sea</font>",
       "cx": 285.0,
@@ -9698,6 +9712,8 @@
       "e": 7116799,
       "ne": 7116800,
       "w": 7116797,
+      "s": 7143003,
+      "sw": 7143002,
       "map": "southron_sea.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Southron Sea</font>",
       "cx": 345.0,
@@ -9709,6 +9725,7 @@
       "ne": 7137001,
       "e": 7137002,
       "se": 7137003,
+      "sw": 7143003,
       "map": "southron_sea.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Southron Sea</font>",
       "cx": 405.0,
@@ -11740,21 +11757,21 @@
       "cy": 660.0
     },
     "7137080": {
-      "s": 7137081,
-      "se": 7137085,
       "e": 7137084,
+      "se": 7137085,
+      "s": 7137081,
       "map": "muirne_cailte.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Muirne Cailte</font>",
-      "cx": 740.0,
-      "cy": 720.0
+      "cx": 800.0,
+      "cy": 480.0
     },
     "7137081": {
       "e": 7137085,
-      "n": 7137080,
       "ne": 7137084,
       "s": 7137082,
       "se": 7137086,
       "sw": 7137078,
+      "n": 7137080,
       "map": "muirne_cailte.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Muirne Cailte</font>",
       "cx": 800.0,
@@ -11969,7 +11986,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 420.0,
-      "cy": 800.0
+      "cy": 805.0
     },
     "7137102": {
       "nw": 7137105,
@@ -11979,7 +11996,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 420.0,
-      "cy": 740.0
+      "cy": 745.0
     },
     "7137103": {
       "e": 7137101,
@@ -11990,7 +12007,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 360.0,
-      "cy": 800.0
+      "cy": 805.0
     },
     "7137104": {
       "e": 7137102,
@@ -12002,7 +12019,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 360.0,
-      "cy": 740.0
+      "cy": 745.0
     },
     "7137105": {
       "nw": 7137108,
@@ -12013,7 +12030,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 360.0,
-      "cy": 680.0
+      "cy": 685.0
     },
     "7137106": {
       "e": 7137104,
@@ -12023,7 +12040,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 300.0,
-      "cy": 740.0
+      "cy": 745.0
     },
     "7137107": {
       "e": 7137105,
@@ -12034,7 +12051,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 300.0,
-      "cy": 680.0
+      "cy": 685.0
     },
     "7137108": {
       "nw": 7137110,
@@ -12044,7 +12061,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 300.0,
-      "cy": 620.0
+      "cy": 625.0
     },
     "7137109": {
       "nw": 7137113,
@@ -12053,7 +12070,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 240.0,
-      "cy": 500.0
+      "cy": 505.0
     },
     "7137110": {
       "n": 7137109,
@@ -12063,7 +12080,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 240.0,
-      "cy": 560.0
+      "cy": 565.0
     },
     "7137111": {
       "e": 7137108,
@@ -12072,7 +12089,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 240.0,
-      "cy": 620.0
+      "cy": 625.0
     },
     "7137112": {
       "n": 7137126,
@@ -12083,7 +12100,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 180.0,
-      "cy": 380.0
+      "cy": 385.0
     },
     "7137113": {
       "n": 7137112,
@@ -12095,7 +12112,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 180.0,
-      "cy": 440.0
+      "cy": 445.0
     },
     "7137114": {
       "e": 7137109,
@@ -12106,7 +12123,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 180.0,
-      "cy": 500.0
+      "cy": 505.0
     },
     "7137115": {
       "e": 7137112,
@@ -12119,7 +12136,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 120.0,
-      "cy": 380.0
+      "cy": 385.0
     },
     "7137116": {
       "e": 7137113,
@@ -12131,7 +12148,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 120.0,
-      "cy": 440.0
+      "cy": 445.0
     },
     "7137117": {
       "e": 7137114,
@@ -12140,7 +12157,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 120.0,
-      "cy": 500.0
+      "cy": 505.0
     },
     "7137118": {
       "e": 7137122,
@@ -12150,7 +12167,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 60.0,
-      "cy": 260.0
+      "cy": 265.0
     },
     "7137119": {
       "e": 7137123,
@@ -12161,7 +12178,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 60.0,
-      "cy": 320.0
+      "cy": 325.0
     },
     "7137120": {
       "e": 7137115,
@@ -12171,7 +12188,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 60.0,
-      "cy": 380.0
+      "cy": 385.0
     },
     "7137121": {
       "e": 7137124,
@@ -12181,7 +12198,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 120.0,
-      "cy": 200.0
+      "cy": 205.0
     },
     "7137122": {
       "e": 7137125,
@@ -12194,7 +12211,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 120.0,
-      "cy": 260.0
+      "cy": 265.0
     },
     "7137123": {
       "e": 7137126,
@@ -12208,7 +12225,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 120.0,
-      "cy": 320.0
+      "cy": 325.0
     },
     "7137124": {
       "e": 7137128,
@@ -12220,7 +12237,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 180.0,
-      "cy": 200.0
+      "cy": 205.0
     },
     "7137125": {
       "e": 7137129,
@@ -12233,7 +12250,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 180.0,
-      "cy": 260.0
+      "cy": 265.0
     },
     "7137126": {
       "n": 7137125,
@@ -12245,7 +12262,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 180.0,
-      "cy": 320.0
+      "cy": 325.0
     },
     "7137127": {
       "e": 7137130,
@@ -12255,7 +12272,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 240.0,
-      "cy": 140.0
+      "cy": 145.0
     },
     "7137128": {
       "e": 7137131,
@@ -12268,7 +12285,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 240.0,
-      "cy": 200.0
+      "cy": 205.0
     },
     "7137129": {
       "e": 7137132,
@@ -12280,7 +12297,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 240.0,
-      "cy": 260.0
+      "cy": 265.0
     },
     "7137130": {
       "e": 7137133,
@@ -12291,7 +12308,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 300.0,
-      "cy": 140.0
+      "cy": 145.0
     },
     "7137131": {
       "e": 7137134,
@@ -12305,7 +12322,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 300.0,
-      "cy": 200.0
+      "cy": 205.0
     },
     "7137132": {
       "e": 7137135,
@@ -12316,7 +12333,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 300.0,
-      "cy": 260.0
+      "cy": 265.0
     },
     "7137133": {
       "e": 7137137,
@@ -12328,7 +12345,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 360.0,
-      "cy": 140.0
+      "cy": 145.0
     },
     "7137134": {
       "e": 7137138,
@@ -12341,7 +12358,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 360.0,
-      "cy": 200.0
+      "cy": 205.0
     },
     "7137135": {
       "n": 7137134,
@@ -12351,7 +12368,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 360.0,
-      "cy": 260.0
+      "cy": 265.0
     },
     "7137136": {
       "e": 7137139,
@@ -12361,7 +12378,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 420.0,
-      "cy": 80.0
+      "cy": 85.0
     },
     "7137137": {
       "e": 7137140,
@@ -12374,7 +12391,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 420.0,
-      "cy": 140.0
+      "cy": 145.0
     },
     "7137138": {
       "e": 7137141,
@@ -12386,7 +12403,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 420.0,
-      "cy": 200.0
+      "cy": 205.0
     },
     "7137139": {
       "e": 7137142,
@@ -12397,7 +12414,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 480.0,
-      "cy": 80.0
+      "cy": 85.0
     },
     "7137140": {
       "e": 7137143,
@@ -12411,7 +12428,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 480.0,
-      "cy": 140.0
+      "cy": 145.0
     },
     "7137141": {
       "e": 7137144,
@@ -12422,7 +12439,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 480.0,
-      "cy": 200.0
+      "cy": 205.0
     },
     "7137142": {
       "e": 7137146,
@@ -12434,7 +12451,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 540.0,
-      "cy": 80.0
+      "cy": 85.0
     },
     "7137143": {
       "e": 7137147,
@@ -12447,7 +12464,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 540.0,
-      "cy": 140.0
+      "cy": 145.0
     },
     "7137144": {
       "n": 7137143,
@@ -12457,7 +12474,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 540.0,
-      "cy": 200.0
+      "cy": 205.0
     },
     "7137145": {
       "e": 7137148,
@@ -12467,7 +12484,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 600.0,
-      "cy": 20.0
+      "cy": 25.0
     },
     "7137146": {
       "e": 7137149,
@@ -12480,7 +12497,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 600.0,
-      "cy": 80.0
+      "cy": 85.0
     },
     "7137147": {
       "e": 7137150,
@@ -12492,7 +12509,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 600.0,
-      "cy": 140.0
+      "cy": 145.0
     },
     "7137148": {
       "e": 7137153,
@@ -12503,7 +12520,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 660.0,
-      "cy": 20.0
+      "cy": 25.0
     },
     "7137149": {
       "n": 7137148,
@@ -12515,7 +12532,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 660.0,
-      "cy": 80.0
+      "cy": 85.0
     },
     "7137150": {
       "n": 7137149,
@@ -12524,7 +12541,7 @@
       "map": "gulf_of_bhoreas.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Gulf of Bhoreas</font>",
       "cx": 660.0,
-      "cy": 140.0
+      "cy": 145.0
     },
     "7137151": {
       "e": 7137155,
@@ -14842,8 +14859,8 @@
       "s": 7143005,
       "se": 7143006,
       "sw": 7143004,
-      "n": 7137796,
-      "ne": 7137797,
+      "n": 7116796,
+      "ne": 7116797,
       "map": "kyrarvrad_thelassic.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Kyr'arvrad Thelassic</font>",
       "cx": 320.0,
@@ -14854,9 +14871,9 @@
       "s": 7143006,
       "sw": 7143005,
       "w": 7143001,
-      "nw": 7137796,
-      "n": 7137797,
-      "ne": 7137798,
+      "nw": 7116796,
+      "n": 7116797,
+      "ne": 7116798,
       "map": "kyrarvrad_thelassic.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Kyr'arvrad Thelassic</font>",
       "cx": 380.0,
@@ -14865,9 +14882,9 @@
     "7143003": {
       "sw": 7143006,
       "w": 7143002,
-      "nw": 7137797,
-      "n": 7137798,
-      "ne": 7137799,
+      "nw": 7116797,
+      "n": 7116798,
+      "ne": 7116799,
       "map": "kyrarvrad_thelassic.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Kyr'arvrad Thelassic</font>",
       "cx": 440.0,
@@ -19186,7 +19203,7 @@
       "w": 7143330,
       "map": "anguillid_seaway.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Anguillid Seaway</span>",
-      "cx": 600.0,
+      "cx": 540.0,
       "cy": 500.0
     },
     "7143332": {
@@ -19196,7 +19213,7 @@
       "w": 7143331,
       "map": "anguillid_seaway.png",
       "map_name": "<span style=\"background-color: rgb(225, 245, 254);\">Anguillid Seaway</span>",
-      "cx": 540.0,
+      "cx": 600.0,
       "cy": 500.0
     },
     "7143333": {
@@ -23457,7 +23474,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 147.0,
-      "cy": 20.0
+      "cy": 30.0
     },
     "7143652": {
       "e": 7143653,
@@ -23467,7 +23484,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 27.0,
-      "cy": 80.0
+      "cy": 90.0
     },
     "7143653": {
       "e": 7143654,
@@ -23480,7 +23497,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 87.0,
-      "cy": 80.0
+      "cy": 90.0
     },
     "7143654": {
       "e": 7143655,
@@ -23494,7 +23511,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 147.0,
-      "cy": 80.0
+      "cy": 90.0
     },
     "7143655": {
       "e": 7143656,
@@ -23508,7 +23525,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 207.0,
-      "cy": 80.0
+      "cy": 90.0
     },
     "7143656": {
       "e": 7143595,
@@ -23522,7 +23539,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 267.0,
-      "cy": 80.0
+      "cy": 90.0
     },
     "7143657": {
       "e": 7143658,
@@ -23533,7 +23550,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 87.0,
-      "cy": 140.0
+      "cy": 150.0
     },
     "7143658": {
       "e": 7143659,
@@ -23546,7 +23563,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 147.0,
-      "cy": 140.0
+      "cy": 150.0
     },
     "7143659": {
       "e": 7143660,
@@ -23560,7 +23577,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 207.0,
-      "cy": 140.0
+      "cy": 150.0
     },
     "7143660": {
       "e": 7143661,
@@ -23574,7 +23591,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 267.0,
-      "cy": 140.0
+      "cy": 150.0
     },
     "7143661": {
       "e": 7143599,
@@ -23588,7 +23605,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 327.0,
-      "cy": 140.0
+      "cy": 150.0
     },
     "7143662": {
       "e": 7143663,
@@ -23599,7 +23616,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 147.0,
-      "cy": 200.0
+      "cy": 210.0
     },
     "7143663": {
       "e": 7143664,
@@ -23612,7 +23629,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 207.0,
-      "cy": 200.0
+      "cy": 210.0
     },
     "7143664": {
       "e": 7143665,
@@ -23626,7 +23643,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 267.0,
-      "cy": 200.0
+      "cy": 210.0
     },
     "7143665": {
       "e": 7143666,
@@ -23640,7 +23657,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 327.0,
-      "cy": 200.0
+      "cy": 210.0
     },
     "7143666": {
       "e": 7143667,
@@ -23654,7 +23671,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 387.0,
-      "cy": 200.0
+      "cy": 210.0
     },
     "7143667": {
       "e": 7143491,
@@ -23668,7 +23685,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 447.0,
-      "cy": 200.0
+      "cy": 210.0
     },
     "7143668": {
       "e": 7143669,
@@ -23679,7 +23696,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 207.0,
-      "cy": 260.0
+      "cy": 270.0
     },
     "7143669": {
       "e": 7143670,
@@ -23692,7 +23709,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 267.0,
-      "cy": 260.0
+      "cy": 270.0
     },
     "7143670": {
       "e": 7143671,
@@ -23706,7 +23723,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 327.0,
-      "cy": 260.0
+      "cy": 270.0
     },
     "7143671": {
       "e": 7143672,
@@ -23720,7 +23737,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 387.0,
-      "cy": 260.0
+      "cy": 270.0
     },
     "7143672": {
       "e": 7143673,
@@ -23734,7 +23751,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 447.0,
-      "cy": 260.0
+      "cy": 270.0
     },
     "7143673": {
       "e": 7143497,
@@ -23748,7 +23765,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 507.0,
-      "cy": 260.0
+      "cy": 270.0
     },
     "7143674": {
       "e": 7143675,
@@ -23759,7 +23776,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 267.0,
-      "cy": 320.0
+      "cy": 330.0
     },
     "7143675": {
       "e": 7143676,
@@ -23772,7 +23789,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 327.0,
-      "cy": 320.0
+      "cy": 330.0
     },
     "7143676": {
       "e": 7143677,
@@ -23786,7 +23803,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 387.0,
-      "cy": 320.0
+      "cy": 330.0
     },
     "7143677": {
       "e": 7143506,
@@ -23800,7 +23817,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 447.0,
-      "cy": 320.0
+      "cy": 330.0
     },
     "7143678": {
       "e": 7143679,
@@ -23811,7 +23828,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 327.0,
-      "cy": 380.0
+      "cy": 390.0
     },
     "7143679": {
       "e": 7143680,
@@ -23824,7 +23841,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 387.0,
-      "cy": 380.0
+      "cy": 390.0
     },
     "7143680": {
       "e": 7143681,
@@ -23838,7 +23855,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 447.0,
-      "cy": 380.0
+      "cy": 390.0
     },
     "7143681": {
       "e": 7143518,
@@ -23852,7 +23869,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 507.0,
-      "cy": 380.0
+      "cy": 390.0
     },
     "7143682": {
       "e": 7143683,
@@ -23863,7 +23880,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 387.0,
-      "cy": 440.0
+      "cy": 450.0
     },
     "7143683": {
       "e": 7143684,
@@ -23876,7 +23893,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 447.0,
-      "cy": 440.0
+      "cy": 450.0
     },
     "7143684": {
       "e": 7143685,
@@ -23890,7 +23907,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 507.0,
-      "cy": 440.0
+      "cy": 450.0
     },
     "7143685": {
       "e": 7143686,
@@ -23904,7 +23921,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 567.0,
-      "cy": 440.0
+      "cy": 450.0
     },
     "7143686": {
       "e": 7143528,
@@ -23918,7 +23935,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 627.0,
-      "cy": 440.0
+      "cy": 450.0
     },
     "7143687": {
       "e": 7143688,
@@ -23929,7 +23946,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 447.0,
-      "cy": 500.0
+      "cy": 510.0
     },
     "7143688": {
       "e": 7143689,
@@ -23942,7 +23959,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 507.0,
-      "cy": 500.0
+      "cy": 510.0
     },
     "7143689": {
       "e": 7143690,
@@ -23956,7 +23973,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 567.0,
-      "cy": 500.0
+      "cy": 510.0
     },
     "7143690": {
       "e": 7143691,
@@ -23970,7 +23987,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 627.0,
-      "cy": 500.0
+      "cy": 510.0
     },
     "7143691": {
       "e": 7143535,
@@ -23984,7 +24001,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 687.0,
-      "cy": 500.0
+      "cy": 510.0
     },
     "7143692": {
       "e": 7143693,
@@ -23995,7 +24012,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 507.0,
-      "cy": 560.0
+      "cy": 570.0
     },
     "7143693": {
       "e": 7143694,
@@ -24008,7 +24025,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 567.0,
-      "cy": 560.0
+      "cy": 570.0
     },
     "7143694": {
       "e": 7143695,
@@ -24022,7 +24039,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 627.0,
-      "cy": 560.0
+      "cy": 570.0
     },
     "7143695": {
       "e": 7143696,
@@ -24036,7 +24053,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 687.0,
-      "cy": 560.0
+      "cy": 570.0
     },
     "7143696": {
       "e": 7143541,
@@ -24050,7 +24067,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 747.0,
-      "cy": 560.0
+      "cy": 570.0
     },
     "7143697": {
       "e": 7143698,
@@ -24061,7 +24078,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 567.0,
-      "cy": 620.0
+      "cy": 630.0
     },
     "7143698": {
       "e": 7143699,
@@ -24074,7 +24091,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 627.0,
-      "cy": 620.0
+      "cy": 630.0
     },
     "7143699": {
       "e": 7143801,
@@ -24088,7 +24105,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 687.0,
-      "cy": 620.0
+      "cy": 630.0
     },
     "7143700": {
       "e": 7143802,
@@ -24100,7 +24117,7 @@
       "map": "feralmor_strait.png",
       "map_name": "<font style=\"font-size: 30px; background-color: rgb(225, 245, 254);\">Feralmor Strait</font>",
       "cx": 627.0,
-      "cy": 680.0
+      "cy": 690.0
     },
     "7143701": {
       "n": 7143348,
@@ -24354,7 +24371,7 @@
       "cy": 310.0
     },
     "7143720": {
-      "e": 714321,
+      "e": 7143721,
       "n": 7143713,
       "ne": 7143714,
       "nw": 7143712,
@@ -24494,7 +24511,7 @@
       "cy": 490.0
     },
     "7143730": {
-      "e": 714371,
+      "e": 7143771,
       "n": 7143726,
       "ne": 7143763,
       "nw": 7143725,
